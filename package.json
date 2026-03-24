@@ -22,7 +22,9 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
     "hexo-theme-landscape": "^0.0.3",
-    "simple-oauth2": "^4.2.0"
+    "hexo-util": "^4.0.0",
+    "simple-oauth2": "^4.2.0",
+    "url-join": "^5.0.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.25",
