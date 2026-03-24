@@ -2,7 +2,7 @@ backend:
   name: github
   repo: wysli/hexo--vercel # Path to your Github/Gitlab repository
   branch: main # Branch to update
-  base_url: https://find404.me/
+  base_url: https://www.find404.me/
 
 # These lines should *not* be indented
 media_folder: 'source/images' # Media files will be stored in the repo under source/images
