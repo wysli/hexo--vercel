@@ -1,6 +1,8 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
+navbar:
+  blog_title: 言说的无言
 
 # Site
 title: 言说的无言
